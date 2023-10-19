@@ -1,0 +1,30 @@
+.admin-menu{
+    list-style-type: none;
+    overflow-x: hidden;
+    width: 80%;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+.admin-menu-item{
+    padding: 16px;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 22px;
+    font-family:Helvetica;
+    border-radius: 5px;
+    background-color: rgb(128, 123, 123);
+
+}
+
+.admin-menu-item:hover{
+    background-color: rgb(137, 69, 201);
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+}
+.admin-menu-item-list{
+    text-decoration: none;
+    color: white;
+}

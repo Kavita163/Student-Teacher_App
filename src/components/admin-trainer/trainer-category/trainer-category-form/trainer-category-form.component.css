@@ -1,0 +1,29 @@
+.admin-menu{
+    list-style-type: none;
+    height: 90vh;
+    width: 86%;
+    background-color: rgb(128, 123, 123);
+    padding: 0px;
+    margin: 0px;
+}
+
+.admin-menu-item{
+    padding: 16px;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 22px;
+    font-family:Helvetica;
+    border-radius: 5px;
+
+}
+
+.admin-menu-item:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+}
+.admin-menu-item-list{
+    text-decoration: none;
+    color: white;
+}

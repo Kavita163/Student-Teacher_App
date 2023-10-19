@@ -1,0 +1,8 @@
+@import url('../../../../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+.form-control{
+    width: 70%;
+}
+.formdetails{
+    margin-left: 300px;
+}

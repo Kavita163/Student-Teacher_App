@@ -1,0 +1,28 @@
+.home-container{
+    background-image: url('../../assets/images/stubg.jpg');
+    background-size: cover;
+    overflow-x: hidden;
+    height: 100vh;
+    color: white;
+}
+.row-container{
+    background-color: #928f8b;  
+}
+.popular-categories div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(158, 31, 101);
+    margin: 14px;
+    vertical-align: middle;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 70px;
+    margin-left: 80px;
+  }
+  .popular-categories div:hover{
+    cursor: pointer;
+    background-color: palevioletred;
+    color: white;
+  
+  }

@@ -1,0 +1,95 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "email": "karuna@gmail.com",
+      "password": "karuna@123"
+    }
+  ],
+  "trainerdetails": [
+    {
+      "id": 1,
+      "trainerName": "Karthik",
+      "trainerEdu": "M.Tech",
+      "trainerExp": "8",
+      "batchDetails": "5 and 7",
+      "isactive": false
+    },
+    {
+      "id": 2,
+      "trainerName": "Mohan",
+      "trainerEdu": "B.Tech",
+      "trainerExp": "10",
+      "batchDetails": "2",
+      "isactive": false
+    },
+    {
+      "id": 3,
+      "trainerName": "Sai",
+      "trainerEdu": "M.C.A",
+      "trainerExp": "5",
+      "batchDetails": "6",
+      "isactive": false
+    },
+    {
+      "id": 4,
+      "trainerName": "Suraj P",
+      "trainerEdu": "M.Tech",
+      "trainerExp": "15",
+      "batchDetails": " 9 & 14",
+      "isactive": true
+    }
+  ],
+  "registrationdata": [
+    {
+      "id": 1,
+      "name": "Saniya",
+      "email": "saniya@gmail.com",
+      "phone": "9878458745",
+      "radio": "Female",
+      "password": "san123",
+      "checkin": true
+    },
+    {
+      "name": "Manav B",
+      "email": "manav@gmail.com",
+      "phone": "8956234578",
+      "radio": "Male",
+      "password": "manav123",
+      "checkin": true,
+      "id": 2
+    }
+  ],
+  "studentdetails": [
+    {
+      "id": 1,
+      "name": "Saniya M",
+      "email": "saniya@gmail.com",
+      "phone": "9885657845",
+      "radio": "Female",
+      "password": "san123",
+      "checkin": true,
+      "status": "Confirmed"
+    },
+    {
+      "id": 2,
+      "name": "Mohan W",
+      "email": "mohan@gmail.com",
+      "phone": "8756874598",
+      "radio": "Male",
+      "password": "mohan123",
+      "checkin": true,
+      "status": "Rejected"
+    },
+    {
+      "id": 3,
+      "name": "Suman K",
+      "email": "suman@gmail.com",
+      "phone": "9878568745",
+      "radio": "Female",
+      "password": "suman123",
+      "checkin": true,
+      "status": "Rejected"
+    }
+  ]
+}

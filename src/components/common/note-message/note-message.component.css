@@ -1,0 +1,33 @@
+[data-type="success"]{
+    background-color:green;
+    color:white;
+}
+
+[data-type="error"]{
+    background-color:rgb(189, 31, 31);
+    color:white;
+}
+
+[data-type="info"]{
+    background-color:blue;
+    color:white;
+}
+
+[data-type="success"], [data-type="error"], [data-type="info"]{
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+.notification-message{
+    position: fixed;
+    right: 20px;
+    top: 40px;
+    padding: 8px;
+    font-size: 18px;
+}
+.close-btn{
+    float: right;
+    padding-left: 20px;
+    cursor: pointer;
+}
